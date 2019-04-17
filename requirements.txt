@@ -1,0 +1,13 @@
+
+
+# required packages
+
+nltk
+numpy
+pandas
+dateutil
+psycopg2
+pattern3
+stop_words
+scikit-learn
+guess_language-spirit
